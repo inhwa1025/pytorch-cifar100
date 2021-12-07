@@ -1,0 +1,7 @@
+SAVEPATH = '/content/drive/My Drive/MLProject/'
+WEIGHTDECAY = 5e-4
+MOMENTUM = 0.9
+BATCHSIZE = 256
+LR = 0.05
+EPOCHS = 206
+PRINTFREQ = 10
